@@ -1,5 +1,5 @@
 # MusicManagement
-Music Management : senecamusic.azurewebsites.net && senecamusicapp.azurewebsites.net
+Music Management : http://senecamusic.azurewebsites.net && http://senecamusicapp.azurewebsites.net
 
   //Account Management
   A user with an Executive role claim is allowed to add, edit, and delete an artist
